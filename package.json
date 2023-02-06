@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/viktorsolovyev/rsclone-api/issues"
   },
-  "homepage": "https://github.com/viktorsolovyev/rsclone-api#readme"
+  "homepage": "https://github.com/viktorsolovyev/rsclone-api#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
 }
